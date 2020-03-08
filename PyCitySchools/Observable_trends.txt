@@ -1,0 +1,7 @@
+Observable trends
+
+1) Based on the Overall Passing rate data for all the schools, we can deduce that students perform better in Maths and reading in Charter schools
+
+2) Overall passing rate decreases as the size of the school increases
+
+3) Increase in Budget per student does not translate in higher passing rates
